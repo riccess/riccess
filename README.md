@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90&fontAlignY=35&desc=my%20world&descAlignY=55)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccess&show_icons=true&theme=radical)
 
 <!--
 **riccess/riccess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
