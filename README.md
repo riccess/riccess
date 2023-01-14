@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:154360&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90&fontAlignY=35&desc=🛸Vivaan's%20GitHub🛸&descAlignY=55)
 
-<h3 align="center">🌤️skillful use 🌤️</h3>
+<h3 align="center">🌤️Skill 🌤️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">&nbsp
@@ -24,5 +24,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=riccess1245)](https://solved.ac/riccess1245)
+<br>
+![Vivaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccess&show_icons=true&theme=radical)
 
 </div>
