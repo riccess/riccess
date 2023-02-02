@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:154360&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90&fontAlignY=35&desc=🛸Vivaan's%20GitHub🛸&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:154360&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=90&fontAlignY=35&desc=🛸Vaan's%20GitHub🛸&descAlignY=55)
 
 <h3 align="center">🌤️Skill 🌤️</h3>
 <p align="center">
